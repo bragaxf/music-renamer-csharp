@@ -15,7 +15,7 @@ Varre a pasta onde o executável está localizado e remove automaticamente o pad
 
 ## 📥 Como baixar e usar
 1. Vá até a seção [Releases](https://github.com/bragaxf/music-renamer-csharp/releases).
-2. Baixe o arquivo `MusicRenamer.exe`.
+2. Baixe o arquivo `DJ Music RenamerV1.0.0.exe`.
 3. Mova-o para a pasta que contém suas músicas.
 4. Execute o programa e veja a mágica acontecer.
 
