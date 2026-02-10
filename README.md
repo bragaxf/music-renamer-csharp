@@ -7,11 +7,19 @@
 O **DJ Music Renamer** é uma ferramenta CLI (Command Line Interface) ultra-otimizada feita para DJs que utilizam sites de download e precisam limpar rapidamente prefixos indesejados de suas bibliotecas de áudio.
 
 ## 🚀 O que ele faz?
-Varre a pasta onde o executável está localizado e remove automaticamente o padrão `SpotiDownloader.com - ` de todos os arquivos `.mp3`, mantendo apenas o nome original da faixa.
+Esta é a **primeira versão (v1.0.0)** do projeto. Atualmente, ele varre a pasta onde o executável está localizado e remove automaticamente o padrão específico:
+`SpotiDownloader.com - ` 
+
+O foco é manter apenas o nome original da faixa em arquivos `.mp3`, facilitando a organização no Rekordbox, Serato ou Traktor.
+
+## ⚠️ Observações Importantes
+- **Padrão Único:** Nesta versão inicial, o programa busca apenas pelo prefixo mencionado acima. 
+- **Em breve:** Já estão planejadas atualizações para permitir que o usuário escolha outros padrões de texto ou limpe múltiplos sites de download de uma só vez.
 
 ## ✨ Diferenciais
-- **Self-Contained:** Não precisa instalar .NET para rodar. Baixe e use.
-- **Segurança:** Verifica se o arquivo já existe antes de renomear para evitar perda de dados.
+- **Self-Contained:** Não precisa instalar o runtime do .NET para rodar. É só baixar e usar.
+- **Segurança:** O programa verifica se o arquivo de destino já existe antes de renomear, evitando qualquer perda acidental de dados.
+- **Interface Estilizada:** Visual inspirado em ferramentas de terminal do Kali Linux.
 
 ## 📥 Como baixar e usar
 1. Vá até a seção [Releases](https://github.com/bragaxf/music-renamer-csharp/releases).
@@ -20,4 +28,4 @@ Varre a pasta onde o executável está localizado e remove automaticamente o pad
 4. Execute o programa e veja a mágica acontecer.
 
 ---
-Desenvolvido por BRAGA - Focado em automação e utilitários para DJs. 🎧
+Desenvolvido por **BRAGA** - Focado em automação e utilitários para DJs. 🎧
