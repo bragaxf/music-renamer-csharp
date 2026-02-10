@@ -20,7 +20,7 @@ O foco é manter apenas o nome original da faixa em arquivos `.mp3`, facilitando
 - **Self-Contained:** Não precisa instalar o runtime do .NET para rodar. É só baixar e usar.
 - **Segurança:** O programa verifica se o arquivo de destino já existe antes de renomear, evitando qualquer perda acidental de dados.
 ## 📥 Como baixar e usar
-1. Vá até a seção [releases](https://github.com/bragaxf/music-renamer-csharp/releases).
+1. Vá até a seção [Releases](https://github.com/bragaxf/music-renamer-csharp/tree/main/releases).
 2. Baixe o arquivo `DJ Music RenamerV1.0.0.exe`.
 3. Mova-o para a pasta que contém suas músicas.
 4. Execute o programa e veja a mágica acontecer.
