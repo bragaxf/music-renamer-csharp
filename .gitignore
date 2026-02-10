@@ -1,27 +1,18 @@
-########################################
-# Compilação e Binários (O mais importante)
-########################################
+
 [Bb]in/
 [Oo]bj/
 out/
 
-########################################
-# Arquivos do Visual Studio e VS Code
-########################################
+
 .vs/
 .vscode/
 *.user
 *.userosscache
 *.sln.docstates
 
-########################################
-# Arquivos de Sistema e Log
-########################################
 *.log
 .DS_Store
 Thumbs.db
 
-########################################
-# Publicação (Para não subir o seu .exe final por engano no código)
-########################################
+
 publish/
