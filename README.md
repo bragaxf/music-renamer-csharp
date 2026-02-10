@@ -2,7 +2,6 @@
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Versão](https://img.shields.io/badge/Versão-1.0.0-blue?style=for-the-badge&logo=github)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Finalizado-brightgreen?style=for-the-badge)
 
 O **DJ Music Renamer** é uma ferramenta CLI (Command Line Interface) ultra-otimizada feita para DJs que utilizam sites de download e precisam limpar rapidamente prefixos indesejados de suas bibliotecas de áudio.
