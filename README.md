@@ -16,9 +16,6 @@ O foco é manter apenas o nome original da faixa em arquivos `.mp3`, facilitando
 - **Padrão Único:** Nesta versão inicial, o programa busca apenas pelo prefixo mencionado acima. 
 - **Em breve:** Já estão planejadas atualizações para permitir que o usuário escolha outros padrões de texto ou limpe múltiplos sites de download de uma só vez.
 
-## ✨ Diferenciais
-- **Self-Contained:** Não precisa instalar o runtime do .NET para rodar. É só baixar e usar.
-- **Segurança:** O programa verifica se o arquivo de destino já existe antes de renomear, evitando qualquer perda acidental de dados.
 ## 📥 Como baixar e usar
 1. Vá até a seção [Releases](https://github.com/bragaxf/music-renamer-csharp/tree/main/releases).
 2. Baixe o arquivo `DJ Music RenamerV1.0.0.exe`.
