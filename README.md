@@ -1,8 +1,8 @@
 # 🎧 DJ Music Renamer - Spotify Edition
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Versão](https://img.shields.io/badge/Versão-1.0.0-blue?style=for-the-badge&logo=github)
-![Status](https://img.shields.io/badge/Status-Finalizado-brightgreen?style=for-the-badge)
+![Version](https://img.shields.io/badge/Version-1.0.0-blue?style=for-the-badge&logo=github)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
 
 **DJ Music Renamer** is an ultra-optimized tool built for DJs who use download sites and need to quickly clean unwanted prefixes from their audio libraries.
 
