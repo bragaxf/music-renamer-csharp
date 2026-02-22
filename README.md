@@ -4,23 +4,23 @@
 ![Versão](https://img.shields.io/badge/Versão-1.0.0-blue?style=for-the-badge&logo=github)
 ![Status](https://img.shields.io/badge/Status-Finalizado-brightgreen?style=for-the-badge)
 
-O **DJ Music Renamer** é uma ferramenta ultra-otimizada feita para DJs que utilizam sites de download e precisam limpar rapidamente prefixos indesejados de suas bibliotecas de áudio.
+**DJ Music Renamer** is an ultra-optimized tool built for DJs who use download sites and need to quickly clean unwanted prefixes from their audio libraries.
 
-## 🚀 O que ele faz?
-Esta é a **primeira versão (v1.0.0)** do projeto. Atualmente, ele varre a pasta onde o executável está localizado e remove automaticamente o padrão específico:
+## 🚀 What does it do?
+This is the **first version (v1.0.0)** of the project. Currently, it scans the folder where the executable is located and automatically removes the following specific pattern:
 `SpotiDownloader.com - ` 
 
-O foco é manter apenas o nome original da faixa em arquivos `.mp3`, facilitando a organização no Rekordbox, Serato ou Traktor.
+The focus is on keeping only the original track name in .mp3 files, making it easier to organize in Rekordbox, Serato, or Traktor.
 
-## ⚠️ Observações Importantes
-- **Padrão Único:** Nesta versão inicial, o programa busca apenas pelo prefixo mencionado acima. 
-- **Em breve:** Já estão planejadas atualizações para permitir que o usuário escolha outros padrões de texto ou limpe múltiplos sites de download de uma só vez.
+## ⚠️ Important Notes
+- **Single Pattern:** In this initial version, the program only searches for the prefix mentioned above.
+- **Coming soon:** Updates are already planned to allow users to choose other text patterns or clean multiple download sites at once.
 
-## 📥 Como baixar e usar
-1. Vá até a seção [Releases](https://github.com/bragaxf/music-renamer-csharp/tree/main/releases).
-2. Baixe o arquivo `DJ Music RenamerV1.0.0.exe`.
-3. Mova-o para a pasta que contém suas músicas.
-4. Execute o programa e veja a mágica acontecer.
+## 📥 How to download and use
+1. Go to the [Releases](https://github.com/bragaxf/music-renamer-csharp/tree/main/releases) section.
+2. Download the file `DJ Music RenamerV1.0.0.exe`.
+3. Move it to the folder containing your music.
+4. Run the program and watch the magic happen.
 
 ---
-Desenvolvido por **BRAGA** - Focado em automação e utilitários para DJs. 🎧
+Developed by **BRAGA** - Focused on automation and utilities for DJs. 🎧
