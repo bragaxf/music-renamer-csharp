@@ -7,9 +7,9 @@ namespace MusicRenamer
     {
         static void Main(string[] args)
         {
-            // O padrão que você quer remover
+            
             string padrao = "SpotiDownloader.com - ";
-            // Pega a pasta onde o .exe está rodando
+
             string caminhoPasta = AppDomain.CurrentDomain.BaseDirectory;
 
             Console.WriteLine("______  ___  ___  ___          _       ______                                     \r\n|  _  \\|_  | |  \\/  |         (_)      | ___ \\                                    \r\n| | | |  | | | .  . |_   _ ___ _  ___  | |_/ /___ _ __   __ _ _ __ ___   ___ _ __ \r\n| | | |  | | | |\\/| | | | / __| |/ __| |    // _ \\ '_ \\ / _` | '_ ` _ \\ / _ \\ '__|\r\n| |/ /\\__/ / | |  | | |_| \\__ \\ | (__  | |\\ \\  __/ | | | (_| | | | | | |  __/ |   \r\n|___/\\____/  \\_|  |_/\\__,_|___/_|\\___| \\_| \\_\\___|_| |_|\\__,_|_| |_| |_|\\___|_|   \r\n                                                                                  \r");
