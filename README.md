@@ -1,4 +1,4 @@
-# 🎧 DJ Music Renamer - Spotify Edition
+# 🎧 DJ Music Renamer 
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Version](https://img.shields.io/badge/Version-1.0.0-blue?style=for-the-badge&logo=github)
